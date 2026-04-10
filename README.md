@@ -122,15 +122,3 @@ npx supabase secrets set OPENROUTER_API_KEY=your_openrouter_key
 ```bash
 npm run dev
 ```
-
-### Testing & Validation
-Navigate to `/testing` for the comprehensive validation framework. See [complete setup guide](docs/developer/SETUP.md) for detailed testing information.
-
-## System Architecture
-
-### Technology Stack
-- **Frontend:** React 18, TypeScript, Tailwind CSS, shadcn/ui
-- **Backend:** Supabase (PostgreSQL, Auth, Edge Functions)  
-- **AI Models:** Multi-provider orchestration via OpenRouter
-- **Mobile:** Capacitor for iOS/Android, PWA capabilities
-- **Security:** Enterprise-grade security with Row-Level Security, PII sanitization, encrypted storage, audit trails, and session hardening

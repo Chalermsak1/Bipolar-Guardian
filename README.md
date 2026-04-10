@@ -151,37 +151,7 @@ This implementation builds on established research in digital phenotyping and pe
 - **Personalization Frameworks:** [Song et al. (2024)](https://mental.jmir.org/2024/1/e59512) - macro-micro approaches for individual vs. population modeling
 - **Conversational AI Ethics:** [Rahsepar Meadi et al. (2025)](https://mental.jmir.org/2025/1/e60432) - scoping review of CAI in mental health care
 
-## Development Status
-
-Bipolar Guardian is a working MVP that validates the technical approach to adaptive personalization in mental health monitoring. The system demonstrates how exponentially weighted baselines, multi-model orchestration, and embedded validation can be integrated into a coherent user experience.
-
-**Current Focus:** System validation and quality assurance through the embedded testing framework. While clinically inspired, this implementation prioritizes technical proof-of-concept over medical validation.
-
-**Clinical Validation:** The current system provides development QA validation, not clinical validation. For healthcare claims, see our [evidence-based clinical validation roadmap](docs/CLINICAL_VALIDATION.md) outlining the path from current MVP to FDA-compliant medical device.
-
-## Contributing
-
-Contributions from developers interested in digital health, adaptive systems, UI/UX design, and human-AI interaction welcomed:
-
-1. **Technical contributions:** Baseline algorithms, model orchestration, validation frameworks
-2. **Research collaboration:** Digital phenotyping, personalization methods, conversational AI safety
-3. **Clinical input:** Mental health professionals interested in reviewing therapeutic approaches
-
-See [complete setup guide](docs/developer/SETUP.md) for detailed setup and contribution guidelines.
-
-## Transparency & Limitations
-
-**What this system provides:**
-- Sophisticated personal baseline adaptation with transparent algorithmic reasoning
-- Resilient multi-model AI guidance with clear therapeutic boundaries  
-- Embedded validation harness for continuous quality improvement
-- Open-source reference implementation for adaptive personalization patterns
-
-**What this system does not provide:**
-- Medical diagnosis or treatment recommendations
-- Clinically validated outcomes or FDA approval
-- Replacement for professional mental health care
-- Production-scale deployment without additional validation
+dation
 
 ---
 

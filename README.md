@@ -1,12 +1,6 @@
 # Bipolar Guardian
 
-## New to Digital Health Projects?
 
-If terms like "EWMA," "multi-model orchestration," or "digital phenotyping" feel unfamiliar, that's completely normal! This project sits at the intersection of mental health, technology, and data science.
-
-**[Start here for a friendly introduction](docs/USER_GUIDE.md)** that explains the "why" and "what" behind this work in everyday language.
-
-Already comfortable with technical concepts? Continue reading below.
 
 ## Technical Architecture
 
